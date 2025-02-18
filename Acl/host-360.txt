@@ -1,0 +1,8 @@
+0.0.0.0 *.360.com
+0.0.0.0 *.360kuai.com
+0.0.0.0 *.360safe.com
+0.0.0.0 *.dhrest.com
+0.0.0.0 *.qhres.com
+0.0.0.0 *.qhstatic.com
+0.0.0.0 *.qhupdate.com
+0.0.0.0 *.so.com
